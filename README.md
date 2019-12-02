@@ -1,4 +1,4 @@
-# Raspberry-pi-Adafruit-Interface
+# Raspberry-Pi-Adafruit.IO-Interface
 Python code to interface a Raspberry Pi with a SHT-30 temp/humidity sensor and relay board via Adafruit.IO
  
 This repository will provide the set up instructions to connect a SHT-30 sensor https://www.adafruit.com/product/4099 to a Raspberry pi Model B+ and display the readings via the Adafruit.io cloud service. 
