@@ -3,7 +3,7 @@ Python code to interface a Raspberry Pi with a SHT-30 temp/humidity sensor and r
  
 This repository will provide the set up instructions to connect a SHT-30 sensor https://www.adafruit.com/product/4099 to a Raspberry pi Model B+ and display the readings via the Adafruit.io cloud service. 
  
-Additionally this set up adds a relay board to control an outlet to switch on and off a light or some other device.
+Additionally this set up adds function to control a relay board, which will allow a user to switch on and off a light or some other device.
  
 <strong>Go ahead and ssh into your Raspberry Pi via terminal or a ssh client:
 ssh pi@raspberrypi.local</strong>
