@@ -12,13 +12,13 @@ Run the standard updates:
 <code>sudo apt-get update</code>
 <code>sudo apt-get upgrade</code>
  
-<h3> Make sure you're using Python 3! <H3>
+<h3> Make sure you're using Python 3! </h3>
  
-<p>If you have PIP installed (typically with <code>apt-get install python-pip</code> on a Debian/Ubuntu-based system), run:
+If you have PIP installed (typically with <code>apt-get install python-pip</code> on a Debian/Ubuntu-based system), run:
  
 <code>sudo pip3 install adafruit-io</code>
  
-<code>sudo pip3 install --upgrade setuptools</code></p>
+<code>sudo pip3 install --upgrade setuptools</code>
  
 <h4>Install the SHT31D Library</h4>
 <code>sudo pip3 install adafruit-circuitpython-sht31d</code>
