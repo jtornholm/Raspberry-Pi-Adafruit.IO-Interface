@@ -25,4 +25,5 @@ If you have PIP installed (typically with <code>apt-get install python-pip</code
 
 <h4>Install Adafruit Blinka Library</h4>
 <code>pip3 install RPI.GPIO</code>
+
 <code>pip3 install adafruit-blinka</code>
