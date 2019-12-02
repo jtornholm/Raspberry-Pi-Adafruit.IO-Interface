@@ -5,4 +5,7 @@ This repostiory will provide the set up instructions to connect a SHT-30 sensor 
 
 Additionally this set up adds a realy board to control an outlet to switch on and off a light or some other device. 
 
+<strong>Go ahead and ssh into your Raspberry Pi via terminal or a ssh client:
+ssh pi@raspberrypi.local</strong>
+
 <h3> Make sure you're using Python 3! <H3>
