@@ -27,3 +27,6 @@ If you have PIP installed (typically with <code>apt-get install python-pip</code
 <code>pip3 install RPI.GPIO</code>
  
 <code>pip3 install adafruit-blinka</code>
+
+download the latest version of the code
+<code>git clone https://github.com/jtornholm/Raspberry-Pi-Adafruit.IO-Interface.git</code>
