@@ -14,7 +14,7 @@ Run the standard updates:
  
 <h3> Make sure you're using Python 3! <H3>
  
-If you have PIP installed (typically with <code>apt-get install python-pip</code> on a Debian/Ubuntu-based system), run:
+<p>If you have PIP installed (typically with <code>apt-get install python-pip</code> on a Debian/Ubuntu-based system), run:
  
 <code>sudo pip3 install adafruit-io</code>
  
