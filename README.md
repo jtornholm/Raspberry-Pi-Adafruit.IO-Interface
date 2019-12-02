@@ -18,7 +18,7 @@ Run the standard updates:
  
 <code>sudo pip3 install adafruit-io</code>
  
-<code>sudo pip3 install --upgrade setuptools</code>
+<code>sudo pip3 install --upgrade setuptools</code></p>
  
 <h4>Install the SHT31D Library</h4>
 <code>sudo pip3 install adafruit-circuitpython-sht31d</code>
